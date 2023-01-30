@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import BotsPage from "./BotsPage";
 
 function App() {
